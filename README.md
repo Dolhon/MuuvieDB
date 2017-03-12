@@ -22,9 +22,9 @@
 │       config.php - sivuston asetuksia
 │       db_config.php - tietokannan asetuksia
 │       functions.php - sivuston funktioita
-│       parameters.php - parametrien käsittely¨
+│       parameters.php - parametrien käsittely
 │
-├───Shadowbox - lightbox efektissä käytettävä kirjasto (trailerin suurennus - WWW-tekniikat opintojakso)
+├───Shadowbox - lightbox efektissä käytettävä kirjasto
 │       
 ├───templates
 │       .htaccess - estää kansion suoran käytön
@@ -34,7 +34,7 @@
 └───views
         .htaccess - estää kansion suoran käytön
         addMovie.php - Lisää elokuva
-        addMovieDemo.php - Lisää elokuva (html5 regex form - WWW-tekniikat opintojakso)
+        addMovieDemo.php - Lisää elokuva (html5 regex form)
         adminMovies.php - Admin sivu elokuvien listaus
         deleteMovie.php - poista elokuva
         editMovie.php - muokkaa elokuvaa
@@ -43,7 +43,7 @@
         login.php - login sivu
         rateMovie.php - anna arvosana elokuvalle
         viewMovie.php - näytä elokuva
-        viewMovieBeta.php - näytä elokuva javascript demo (WWW-tekniikat opintojakso)
+        viewMovieBeta.php - näytä elokuva javascript demo
 				editUser.php - muokkaa profiilia
 				listUsers.php - listaa editor profiilit
 ```
