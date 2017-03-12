@@ -1,5 +1,11 @@
 # MuuvieDB
 
+Elokuvatietokannan hallintajärjestelmä
+
+## Tietokanta
+
+![alt text](https://github.com/Dolhon/MuuvieDB/blob/master/readme_img/db.jpg "")
+
 ## Rakenne
 
 ```mdb
@@ -47,5 +53,5 @@
 				editUser.php - muokkaa profiilia
 				listUsers.php - listaa editor profiilit
 ```
-	
-        
+	     
+![alt text](https://github.com/Dolhon/MuuvieDB/blob/master/readme_img/rakenne.JPG "")
